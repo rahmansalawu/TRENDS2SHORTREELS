@@ -1,0 +1,8 @@
+{
+  "name": "Remix: nanobanan2: ShortCreator AI v7",
+  "description": "FEATURE--- further improve image fetching\nfeature --- downlopad rendered video not just assets mp4 or equivalent\nFEATURE -- ENHANCE VIDEO GEN AND EXPORT \nFEATURE-- IMPROVE IMAGES FETHCING. WAS ONLY FTCHING THUMBNAILS\nFeature --- list more trending topics at least 5\nAn automated YouTube Shorts generator that pulls current Google Trends, scrapes news articles, writes an engaging script using Gemini, and synthesizes continuous TTS audio narration while syncing dynamic visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
